@@ -1,8 +1,4 @@
 apiVersion: apps/v1
-kind: Namespace
-metadata:
-  name: web
----
 kind: Deployment
 metadata:
   labels:
